@@ -1,6 +1,6 @@
 <img src="https://github.com/SENSING-Technology/.github/blob/main/SENSING.jpg" />
 
-# Welcome to SENSING open source community! 👋
+# Welcome to SENSING community! 👋
 
 SENSING is an innovative technology company focus on image and vision technologies, a strong independent and autonomous R&D team, and in-vehicle volume production capabilities.
 
