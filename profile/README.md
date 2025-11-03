@@ -14,7 +14,7 @@ We are passionate about the development and application of various image and vis
 - [SensingCaptureV2](https://github.com/SENSING-Technology/SensingCaptureV2)：Host Software Tools for Use with the SGX-U30 Device.
 - [SensingCaptureV3](https://github.com/SENSING-Technology/SensingCaptureV3): Host Software Tools for Use with the Panda Device.
 - [Holoscan-Sensor-Bridge](https://github.com/SENSING-Technology/Holoscan-Sensor-Bridge): Holoscan Sensor Bridge based on the official and increased support for SENSING HSB cameras.
-- [sgStereo](https://github.com/SENSING-Technology/sgStereo): Model-based stereo depth algorithm SDK.
+- [sDepth](https://github.com/SENSING-Technology/sDepth): Model-based stereo depth algorithm SDK.
 - [nvidia-omniverse](https://github.com/SENSING-Technology/nvidia-omniverse): SENSING Camera models of NVIDIA Omniverse.
 
 ## Contact Us
