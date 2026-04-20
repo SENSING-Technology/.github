@@ -13,6 +13,7 @@ We are passionate about the development and application of various image and vis
 - [nvidia-drive-camera-drivers](https://github.com/SENSING-Technology/nvidia-drive-camera-drivers): Camera Drivers For NVIDIA Drive Devices.
 - [D-Robotics-camera-drivers](https://github.com/SENSING-Technology/D-Robotics-camera-drivers): Camera Drivers For D-Robotics Devices.
 - [qualcomm-camera-drivers](https://github.com/SENSING-Technology/qualcomm-camera-drivers): Camera Drivers For Qualcomm Devices.
+- [intel-ipu-camera-drivers](https://github.com/SENSING-Technology/intel-ipu-camera-drivers): Camera Drivers For Intel IPU Devices.
 - [SensingCaptureV2](https://github.com/SENSING-Technology/SensingCaptureV2)：Host Software Tools for Use with the SGX-U30 Device.
 - [SensingCaptureV3](https://github.com/SENSING-Technology/SensingCaptureV3): Host Software Tools for Use with the Panda Device.
 - [Holoscan-Sensor-Bridge](https://github.com/SENSING-Technology/Holoscan-Sensor-Bridge): Holoscan Sensor Bridge based on the official and increased support for SENSING HSB cameras.
