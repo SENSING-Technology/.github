@@ -1,4 +1,4 @@
-<img src="https://github.com/SENSING-Technology/.github/blob/main/SENSING.jpg" />
+<img src="https://github.com/SENSING-Technology/.github/blob/main/SENSING.png" />
 
 # Welcome to SENSING community! 👋
 
